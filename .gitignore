@@ -90,7 +90,7 @@ htmlcov/
 
 # Output files
 outputs/
-results/
+
 *.csv
 *.json
 !data/data_config.yaml
